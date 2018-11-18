@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.example.com/students"
+  xsi:schemaLocation="http://www.example.com/students person.xsd">
+  <abiturient>
+   	 <name>Umedich</name>
+     <telephone>+375257360509</telephone>
+     <address>
+      	 <country>Belarus</country>
+         <city>Minsk</city>
+         <street>Oktyabrskaya 10</street>
+         </address> 
+         	  <average-mark>1.0</average-mark>
+            		</abiturient>
+           				 <student login="Umedjon14" faculty="mmf">
+             		     <name>Umed</name>
+                         <telephone>+375257360508</telephone>
+         <address>
+         	<country>Belarus</country>
+         	<city>Minsk</city>
+         	<street>Kalinovsky 45</street>
+         </address>
+         	</student>
+         	<student login="Pashkin5" faculty="mmf">
+         	<name>Uma</name>
+         	 <telephone>+375257360507</telephone>
+         	 <address>
+         	 	<country>Belarus</country>
+         	  	<city>Brest</city>
+         	   	<street>Knorina 56</street>
+         	  </address>
+         	</student>
+</students>    

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM "students.dtd">
+ <students> 
+  <student login="Jabor" faculty="FPMI">
+     <name>Jabor tultulovich</name>
+        <telephone>+375257360505</telephone>
+           <address>
+               <country>Belarus</country>
+                   <city>Minsk</city>
+                       <street>Oktyaberskaya 5</street>
+           </address>
+  </student> 
+              <student login="Virtusspro19" faculty="FPMI">
+            <name>KaDRuSS Ro</name>
+          <telephone>+375257360502</telephone>
+       <address>
+             <country>Belarus</country>
+           <city>Minsk</city>
+          <street>Oktyaberskaya 10</street>
+       </address>
+    </student> 
+ </students>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <students>
+  <student login="ruzi" faculty="fpmi">
+   		<name>ruzi</name>
+   			 <telephone>+375257360500</telephone>
+    			 <address> 
+    				 <city>Minsk</city>
+     				 <country>BLR</country>
+      				 <street>okt 10</street>
+        		 </address>
+  </student> 
+         <student login="hasan" faculty="fpmi"> 
+        		 <name>hasan</name>
+         			 <telephone>+375257360501</telephone>
+           				<address>
+            				<city>MINSK</city>
+             				<country>BLR</country>
+            			    <street>Okt 9</street>
+                       </address> 
+          </student>
+</students> 
